@@ -12,3 +12,4 @@ elif x % 5 ==0:
 else:
     print("Your number is NOT divisible by 3 & 5")
 print ("End of program")
+# committed from gitHUB to VScode
